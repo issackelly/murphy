@@ -40,6 +40,26 @@
                 ], 
                 "creator": "Elton John", 
                 "trackNum": 8
+            }, 
+            {
+                "info": "http://www.rdio.com/artist/Johnny_Cash/album/At_Folsom_Prison_1/", 
+                "album": "At Folsom Prison", 
+                "meta": [
+                    {
+                        "http://rdio.gitjay.com/track/id/": "t3493313"
+                    }
+                ], 
+                "location": [
+                    "http://rd.io/e/QJhSK3YSkw"
+                ], 
+                "title": "Busted (Live)", 
+                "duration": 84, 
+                "image": "http://cdn3.rd.io/album/9/8/a/0000000000045a89/square-200.jpg", 
+                "identifier": [
+                    "http://www.rdio.com/artist/Johnny_Cash/album/At_Folsom_Prison_1/track/Busted_(Live)/"
+                ], 
+                "creator": "Johnny Cash", 
+                "trackNum": 2
             }
         ], 
         "identifier": "http://www.rdio.com/people/issackelly/playlists/566843/Murphy/", 
@@ -50,8 +70,8 @@
         ], 
         "location": "http://rd.io/x/QJhSL0v5aQ", 
         "title": "Murphy", 
-        "date": "2012-02-12T11:19:42-00:00", 
-        "image": "http://m.rdio.com/_is/?aid=774977,235948&w=200&h=200", 
+        "date": "2012-02-12T14:45:40-00:00", 
+        "image": "http://m.rdio.com/_is/?aid=285321,235948,774977&w=200&h=200", 
         "creator": "Issac Kelly", 
         "annotation": ""
     }
