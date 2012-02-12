@@ -2,26 +2,6 @@
     "playlist": {
         "track": [
             {
-                "info": "http://www.rdio.com/artist/Foster_The_People/album/Torches/", 
-                "album": "Torches", 
-                "meta": [
-                    {
-                        "http://rdio.gitjay.com/track/id/": "t9143822"
-                    }
-                ], 
-                "location": [
-                    "http://rd.io/e/QJhSK8jZXA"
-                ], 
-                "title": "Pumped Up Kicks", 
-                "duration": 239, 
-                "image": "http://cdn3.rd.io/album/1/4/3/00000000000bd341/square-200.jpg", 
-                "identifier": [
-                    "http://www.rdio.com/artist/Foster_The_People/album/Torches/track/Pumped_Up_Kicks/"
-                ], 
-                "creator": "Foster The People", 
-                "trackNum": 2
-            }, 
-            {
                 "info": "http://www.rdio.com/artist/Johnny_Cash/album/At_Folsom_Prison_1/", 
                 "album": "At Folsom Prison", 
                 "meta": [
@@ -90,8 +70,8 @@
         ], 
         "location": "http://rd.io/x/QJhSL0v5aQ", 
         "title": "Murphy", 
-        "date": "2012-02-12T14:49:54-00:00", 
-        "image": "http://m.rdio.com/_is/?aid=285321,235948,94717,774977&w=200&h=200", 
+        "date": "2012-02-12T14:54:13-00:00", 
+        "image": "http://m.rdio.com/_is/?aid=285321,235948,94717&w=200&h=200", 
         "creator": "Issac Kelly", 
         "annotation": ""
     }
